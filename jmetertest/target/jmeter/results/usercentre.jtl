@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="478" lt="478" ts="1414399729325" s="true" lb="account_groupOfNumber(获取id随机数列表)" rc="200" rm="OK" tn="线程组(id注册) 1-1" dt="text" by="239">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="157" lt="156" ts="1414399729829" s="true" lb="account_register(id注册成功)" rc="200" rm="OK" tn="线程组(id注册) 1-1" dt="text" by="464">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="119" lt="119" ts="1414399729989" s="true" lb="account_logout(注销)" rc="200" rm="OK" tn="线程组(id注册) 1-1" dt="text" by="279">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+
+</testResults>
