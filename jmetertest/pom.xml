@@ -46,6 +46,7 @@
 <configuration>
 <testFilesIncluded>
 <jMeterTestFile>usercentre.jmx</jMeterTestFile>
+<jMeterTestFile>push.jmx</jMeterTestFile>
 </testFilesIncluded>
 </configuration>
 </execution>
